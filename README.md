@@ -17,7 +17,12 @@ My name is Paulina Skrzyńska. I graduated bachelor's degree in music journalism
 * Test cases and scenarios
 * Bug reports
 # Certificates
-QA Manual at GoIT - ID 26178
-ISTQB - in progress
+* QA Manual at GoIT - ID 26178
+* ISTQB - in progress
 # Courses
-[QA Manual](https://goit.global/pl/courses/qa/) at GoIT
+* [QA Manual](https://goit.global/pl/courses/qa/) at GoIT
+# Projects
+* Group project - testing web app [So Yummy](https://so-yummi-qa.netlify.app/)
+  * [checklist](https://drive.google.com/drive/folders/1bR-yZwkeycWGEfdikE_V4vZRyCnVQgeN)
+  * [Bug reports](https://drive.google.com/drive/folders/1avqq6aMzfgr8PGjBoCCGvvLfKGB1AS4B)
+      
