@@ -25,4 +25,5 @@ My name is Paulina Skrzyńska. I graduated bachelor's degree in music journalism
 * Group project - testing web app [So Yummy](https://so-yummi-qa.netlify.app/)
   * [Checklist](https://drive.google.com/drive/folders/1bR-yZwkeycWGEfdikE_V4vZRyCnVQgeN)
   * [Bug reports](https://drive.google.com/drive/folders/1avqq6aMzfgr8PGjBoCCGvvLfKGB1AS4B)
-      
+# Test case examples
+* [Test cases for Santander Bank web app](https://drive.google.com/drive/u/0/folders/1o2z_niBvWaLpg5OLBwrsKyXAhfgsnDeo) 
