@@ -1,7 +1,7 @@
 # Portfolio
 # About me
 My name is Paulina Skrzyńska. I graduated bachelor's degree in music journalism at DSW University of Lower Silesia and a master's degree in Polish studies at The University of Wrocław. I have worked in the automotive industry for over 10 years, gaining experience in projects and teamwork. Recently, I have become interested in software testing.  I love to learn new things, especially in the IT field. I joined the QA Engineer course to expand my knowledge about tools in use for testing and learn about those tools more by practice. Thanks to this course, I have learned how to prepare scenarios and test cases and which tools I can use to manage testing documentation. I am preparing myself as well for the ISTQB exam, I plan to gain a certificate until the end of 2024.
-https://paulinaskrzynska.netlify.app/ 
+* https://paulinaskrzynska.netlify.app/ 
 # Tools
 * [Jira](https://www.atlassian.com/software/jira)
 * [TestRail](https://www.testrail.com/)
